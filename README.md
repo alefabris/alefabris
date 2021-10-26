@@ -1,16 +1,15 @@
+![Hi there 👋](https://i.postimg.cc/MptrFqHk/alefabris.png)
+
 ### Hi there 👋
 
-<!--
-**alefabris/alefabris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub page!**
 
-Here are some ideas to get you started:
+Connect with me on these platforms:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Twitter: https://twitter.com/alefabris98
+
+🔗 LinkedIn: www.linkedin.com/in/alefabris
+
+🔗 Kaggle: https://www.kaggle.com/alefabris
+
+🔗 Medium: https://medium.com/@alefabris
