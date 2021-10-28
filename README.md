@@ -6,8 +6,6 @@
 
 Connect with me on these platforms:
 
-🔗 Twitter: https://twitter.com/alefabris98
-
 🔗 LinkedIn: www.linkedin.com/in/alefabris
 
 🔗 Kaggle: https://www.kaggle.com/alefabris
