@@ -4,10 +4,12 @@
 
 **Welcome to my GitHub page!**
 
-Connect with me on these platforms:
+Connect with me here:
 
-🔗 LinkedIn: www.linkedin.com/in/alefabris
+📧 E-Mail:    ![ale.fabris1998@gmail.com](mailto:ale.fabris1998@gmail.com)
 
-🔗 Kaggle: https://www.kaggle.com/alefabris
+🔗 LinkedIn:  https://www.linkedin.com/in/alefabris
 
-🔗 Medium: https://medium.com/@alefabris
+🔗 Kaggle:    https://www.kaggle.com/alefabris
+
+🔗 Medium:    https://medium.com/@alefabris
