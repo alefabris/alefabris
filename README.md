@@ -11,5 +11,3 @@
 * **LinkedIn: https://www.linkedin.com/in/alefabris**
 
 * **Kaggle: https://www.kaggle.com/alefabris**
-
-* **Medium: https://medium.com/@alefabris**
