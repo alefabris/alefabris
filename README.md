@@ -10,6 +10,8 @@
 
 * **LinkedIn: https://www.linkedin.com/in/alefabris**<br/><br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alefabris" alt="alefabris" /> </p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alefabris&theme=radical)<br/><br/>
 
 ![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alefabris&hide=prs,issues,contribs?username=alefabris&count_private=true?username=alefabris&show_icons=true&theme=radical)
