@@ -1,5 +1,3 @@
-![Hi there 👋](https://i.postimg.cc/MptrFqHk/alefabris.png)
-
 ### Hi there 👋
 
 **Welcome to my GitHub page!**
